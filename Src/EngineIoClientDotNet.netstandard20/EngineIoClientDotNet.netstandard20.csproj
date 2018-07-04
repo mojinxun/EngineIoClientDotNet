@@ -5,13 +5,15 @@
  <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <Description>This is the Engine.IO Client Library for C#.</Description>
     <PackageProjectUrl>https://github.com/Quobject/EngineIoClientDotNet/</PackageProjectUrl>
-    <Version>1.0.7</Version>
+    <Version>1.0.7.2</Version>
     <Copyright>Copyright © 2018</Copyright>
     <RepositoryUrl>https://github.com/Quobject/EngineIoClientDotNet/</RepositoryUrl>
-    <AssemblyVersion>1.0.7.0</AssemblyVersion>
-    <FileVersion>1.0.7.0</FileVersion>
+    <AssemblyVersion>1.0.7.2</AssemblyVersion>
+    <FileVersion>1.0.7.2</FileVersion>
     <RootNamespace>Quobject.EngineIoClientDotNet</RootNamespace>
-    <AssemblyName>EngineIoClientDotNet</AssemblyName>	
+    <AssemblyName>EngineIoClientDotNet</AssemblyName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseUrl>https://github.com/Quobject/EngineIoClientDotNet/</PackageLicenseUrl>	
   </PropertyGroup>
 
   <ItemGroup>
